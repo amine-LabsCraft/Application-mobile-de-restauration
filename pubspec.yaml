@@ -1,0 +1,43 @@
+name: burger_queen
+description: Burger Queen Flutter App
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/big-queen.jpg
+    - assets/images/brownie.jpg
+    - assets/images/cheese.jpg
+    - assets/images/classic-cola.jpg
+    - assets/images/cupcake.jpg
+    - assets/images/donut.jpg
+    - assets/images/egg-bacon-burger.jpg
+    - assets/images/fries.jpg
+    - assets/images/layer-burger.jpg
+    - assets/images/orange-soda.jpg
+    - assets/images/oreo-ice.jpg
+    - assets/images/patate-douce.jpg
+    - assets/images/potatoes.jpg
+    - assets/images/poutine.jpg
+    - assets/images/prince.jpg
+    - assets/images/sparkling.jpg
+    - assets/images/strawberry-soda.jpg
+    - assets/images/strawberry-waffle.jpg
+    - assets/images/twins.jpg
