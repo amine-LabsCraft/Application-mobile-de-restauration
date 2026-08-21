@@ -371,11 +371,20 @@ Année universitaire 2025–2026. :contentReference[oaicite:21]{index=21}
 
 # 👨‍💻 Auteur
 
-Amine AIT ALI
+ 
+<div align="center">
 
-ENSA Khouribga
-
-Flutter Developer • Mobile Development • UI/UX
+ 
+**MediSchool**
+*by* **Amine Ait Ali** · Data & AI Engineer
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-amine--LabsCraft-181717?style=flat&logo=github)](https://github.com/amine-LabsCraft)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amine--aitali--5752.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white)](https://amine-aitali-5752.netlify.app/)
+ 
+**[⬆ Retour en haut](#-medischool)**
+ 
+</div>
+ 
 
 ---
 
